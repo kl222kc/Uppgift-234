@@ -10,6 +10,16 @@ Arbetet för klubbens kassör behöver också förenklas då det med har sköts 
 
 ##Användargrupper
 
+###Klubb Medlem
+En person som är medlem i klubben har antagligen en eller flera båtar.
+
+###Sekreterare
+Har hand om tilldelningen av båtplatser och möten.
+
+###Kassör
+Har hand om klubbens ekonomi och håller koll medlemsavgifterna.
+
+
 ##Intressenter
 
 ##Liknande System
