@@ -28,4 +28,8 @@ Har hand om klubbens ekonomi och håller koll medlemsavgifterna.
 
 ##Liknande System
 
+###Mawik Medlemsregister
+
+###Leson Båtklubb
+
 ##Baskrav
