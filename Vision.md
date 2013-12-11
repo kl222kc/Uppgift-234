@@ -23,13 +23,17 @@ Har hand om klubbens ekonomi och håller koll medlemsavgifterna.
 ##Intressenter
 
 ###Datainspektionen
+Datainspektionen är en svensk statlig förvaltningsmyndighet som har till uppgift att verka för att människor skyddas mot att deras personliga integritet kränks genom behandling av personuppgifter och för att god sed iakttas i kreditupplysnings- och inkassoverksamhet. http://www.datainspektionen.se/
 
 ###Räddningstjänsten
+Vid olyckor.
 
 ##Liknande System
 
 ###Mawik Medlemsregister
+Gratis medlemsregister, dock kan det behövas tillägstjänster och det är inte heller anpassat för båtar. http://www.mawik.se/start/default.asp?page=599
 
 ###Leson Båtklubb
+Anpassat för båtklubbar. http://www.leson.se/klubbadm/program.htm
 
 ##Baskrav
