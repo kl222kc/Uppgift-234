@@ -22,6 +22,9 @@ Har hand om klubbens ekonomi och håller koll medlemsavgifterna.
 
 ##Intressenter
 
+###Nationellt båtregister
+Båtregister som kommer att användas för att hämta information om båtarna.
+
 ###Datainspektionen
 Datainspektionen är en svensk statlig förvaltningsmyndighet som har till uppgift att verka för att människor skyddas mot att deras personliga integritet kränks genom behandling av personuppgifter och för att god sed iakttas i kreditupplysnings- och inkassoverksamhet. http://www.datainspektionen.se/
 
