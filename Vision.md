@@ -22,6 +22,10 @@ Har hand om klubbens ekonomi och håller koll medlemsavgifterna.
 
 ##Intressenter
 
+###Datainspektionen
+
+###Räddningstjänsten
+
 ##Liknande System
 
 ##Baskrav
