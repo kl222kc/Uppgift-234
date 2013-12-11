@@ -40,3 +40,12 @@ Gratis medlemsregister, dock kan det behövas tillägstjänster och det är inte
 Anpassat för båtklubbar. http://www.leson.se/klubbadm/program.htm
 
 ##Baskrav
+
+1. Medlemmar ska kunna ändra sina uppgifter själva på ett smidigt sätt.
+2. Information om möten och annan viktigt information ska automatiskt skickas ut till medlemmarna
+3. Registret ska ge en tydlig överblick över alla medlemmar och deras båtar
+  * Information om medlemmarnas båtar ska hämtas automatiskt ur det nationella båtregistret. 
+4. Medlemmar ska enkelt kunna se lediga båtplatser som passar för deras båtar och kunna boka dessa.
+5. Det ska vara vara enkelt för kassören att se vilka som har betalat.
+  * Det ska automatiskt skickas faktura till medlemmarna när betalning ska ske
+  * Kassören ska meddelas om någon inte betalat eller fel summa har betalats in.
