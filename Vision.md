@@ -10,7 +10,7 @@ Arbetet för klubbens kassör behöver också förenklas då det med har sköts 
 
 ##Användargrupper
 
-###Klubb Medlem
+###Klubbmedlem
 En person som är medlem i klubben har antagligen en eller flera båtar.
 
 ###Sekreterare
