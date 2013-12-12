@@ -5,10 +5,10 @@
 ###Primära Aktörer
 
 ####Klubbmedlem
-Klubbmedlemmarna vill kunna ändra sina personliga uppgifter, få information om möten. Klubbmedlemmarna vill även kunna boka en båtplats och ändra båtplats. 
+Klubbmedlemmarna vill kunna ändra sina personuppgifter, få information om möten. Klubbmedlemmarna vill även kunna boka en båtplats och ändra båtplats. 
 
 ####Sekreterare
-Vill kunna skapa möten, skicka ut information till alla medlemmar, kunna hantera båtplatser och medlemmsuppgifter för att kunna ge support åt klubbmedlemmarna.
+Vill kunna skapa möten, skicka ut information till alla medlemmar, kunna hantera båtplatser och personuppgifter för att kunna ge support åt klubbmedlemmarna.
 
 ####Kassör
 Vill kunna se om medlemmar inte har betalat sin medlemsavgift, se så att rätt belopp har betalats in och kunna skicka påminnelser/fakturor vid försenad eller om fel belopp har betalats in.
@@ -27,7 +27,7 @@ Regler för båtplatserna.
 
 ####Klubbmedlem
   * Ändra personliga uppgifter.
-  * Registera sin båt.
+  * Registrera sin båt.
   * Boka båtplats.
   * Ändra båtplats.
   * Se inplanerade möten.
