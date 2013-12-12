@@ -46,6 +46,6 @@ Regler för båtplatserna.
 2.4 Hantera båtplatserna.
 
 #### 3. Kassör
-[3.1 Se vilka som inte har betalat sina avgifter.](3.1 Se vilka som inte har betalat sina avgifter.md)
+[3.1 Se vilka som inte har betalat sina avgifter.](AF/3.1 Se vilka som inte har betalat sina avgifter.md)
 
 3.2 Skicka faktura/betalningspåminnelse.
