@@ -21,6 +21,7 @@ Här ifrån kommer informationen om medlemmarnas båtar att hämtas.
 ###Offstage Aktörer
 
 ####Räddningstjänsten
+Regler för båtplatserna.
 
 ##Användningsfall
 
@@ -35,6 +36,8 @@ Här ifrån kommer informationen om medlemmarnas båtar att hämtas.
   * Ge support åt klubbmedlemmarna.
   * Skapa ett möte.
   * Skicka ut information.
-  * Hantera båtplatserna
+  * Hantera båtplatserna.
 
 ####Kassör
+  * Se vilka som inte har betalat sina avgifter.
+  * Skicka faktura/betalningspåminnelse.
