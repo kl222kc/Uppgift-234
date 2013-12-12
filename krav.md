@@ -5,7 +5,7 @@
 ###Primära Aktörer
 
 ####Klubbmedlem
-Klubbmedlemmarna vill kunna ändra sina personuppgifter, få information om möten. Klubbmedlemmarna vill även kunna boka en båtplats och ändra båtplats. 
+Klubbmedlemmarna vill kunna ändra sina personuppgifter, få information om möten. Klubbmedlemmarna vill även kunna boka en båtplats och ändra sin båtplats. 
 
 ####Sekreterare
 Vill kunna skapa möten, skicka ut information till alla medlemmar, kunna hantera båtplatser och personuppgifter för att kunna ge support åt klubbmedlemmarna.
