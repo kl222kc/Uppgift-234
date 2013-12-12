@@ -27,11 +27,11 @@ Regler för båtplatserna.
 
 #### 1. Klubbmedlem
 1.1 Ändra personliga uppgifter.
-  
-1.2 Registrera sin båt.
-  
-1.3 Boka båtplats.
-  
+
+[1.2 Registrera sin båt.](AF/1.2 Registrera sin båt.md)
+
+[1.3 Boka båtplats.](AF/1.3 Boka båtplats.md)
+
 1.4 Ändra båtplats.
   
 1.5 Se inplanerade möten.
@@ -39,13 +39,13 @@ Regler för båtplatserna.
 #### 2. Sekreterare
 2.1 Ge support åt klubbmedlemmarna.
 
-2.2 Skapa ett möte.
+[2.2 Skapa ett möte.](AF/2.2 Skapa ett möte.md)
 
 2.3 Skicka ut information.
 
 2.4 Hantera båtplatserna.
 
 #### 3. Kassör
-3.1 Se vilka som inte har betalat sina avgifter.
+[3.1 Se vilka som inte har betalat sina avgifter.](3.1 Se vilka som inte har betalat sina avgifter.md)
 
 3.2 Skicka faktura/betalningspåminnelse.
