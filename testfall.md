@@ -27,7 +27,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 
 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
 2. En lista med lediga båtplatser visas och alternativ att filtera efter någon av dina båtar: båt1, båt2, båt3
-3. Välj båt1.
+3. Välj båt2.
 4. En lista presenteras med lediga båtplatser som passar för vald båt: 4, 18, 51.
 5. Välj båtplats 18.
 6. Pris och information om båtplatsen presenteras och får val boka eller avbryt.
@@ -38,7 +38,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 
 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
 2. En lista med lediga båtplatser visas och alternativ att filtera efter någon av dina båtar: båt1, båt2, båt3
-3. Välj båt1.
+3. Välj båt3.
 4. En lista presenteras med lediga båtplatser som passar för vald båt: 5.
 5. Välj båtplats 5.
 6. Pris och information om båtplatsen presenteras och får val boka eller avbryt.
