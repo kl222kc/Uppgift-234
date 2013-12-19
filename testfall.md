@@ -49,7 +49,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 
 ### TF 1.4 3A: Båtplatsen passar ej någon båt.
 
-1. 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
+1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
 2. En lista med lediga båtplatser visas: 2, 4, 5, 18, 29, 44, 51, 55, 60.
 3. Välj båtplats 60.
 4. Pris och information om båtplatsen presenteras och ett meddelande skrivs ut att det ej finns någon båt som passar på båtplats.
