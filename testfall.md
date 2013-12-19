@@ -44,3 +44,12 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 6. Pris och information om båtplatsen presenteras och får val boka eller avbryt.
 7. Klicka på boka.
 8. Ett meddelande presenterar att båtplatsen nu är bokad.
+9. 
+
+##Alternativa testfall
+
+### TF 1.4 3A: Båtplatsen passar ej någon båt.
+
+### TF 1.5 3B: Båtplatsen passar flera båtar.
+
+### TF 1.6 8: Användaren vill ej ha båtplatsen.
