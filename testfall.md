@@ -15,7 +15,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 ### TF 1.1 Boka båtplats åt båt1
 
 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
-2. En lista med lediga båtplatser visas och alternativ att filtera efter någon av dina båtar: båt1, båt2, båt3
+2. En lista med lediga båtplatser visas och alternativ att filtrera efter någon av dina båtar: båt1, båt2, båt3
 3. Välj båt1.
 4. En lista presenteras med lediga båtplatser som passar för vald båt: 2, 4, 5, 29, 44.
 5. Välj båtplats 2.
@@ -26,7 +26,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 ### TF 1.2 Boka båtplats åt båt2
 
 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
-2. En lista med lediga båtplatser visas och alternativ att filtera efter någon av dina båtar: båt1, båt2, båt3
+2. En lista med lediga båtplatser visas och alternativ att filtrera efter någon av dina båtar: båt1, båt2, båt3
 3. Välj båt2.
 4. En lista presenteras med lediga båtplatser som passar för vald båt: 4, 18, 51.
 5. Välj båtplats 18.
@@ -37,7 +37,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 ### TF 1.3 Boka båtplats åt båt3
 
 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
-2. En lista med lediga båtplatser visas och alternativ att filtera efter någon av dina båtar: båt1, båt2, båt3
+2. En lista med lediga båtplatser visas och alternativ att filtrera efter någon av dina båtar: båt1, båt2, båt3
 3. Välj båt3.
 4. En lista presenteras med lediga båtplatser som passar för vald båt: 4, 55.
 5. Välj båtplats 55.
@@ -68,7 +68,7 @@ Kontrollera så att en rad har skapats i databasen med korrekt id, namn, båtreg
 ### TF 1.6 8: Användaren vill ej ha båtplatsen.
 
 1. Gå till sidan för lediga båtplatser (www.dengladepiraten.se/batplatser)
-2. En lista med lediga båtplatser visas och alternativ att filtera efter någon av dina båtar: båt1, båt2, båt3
+2. En lista med lediga båtplatser visas och alternativ att filtrera efter någon av dina båtar: båt1, båt2, båt3
 3. Välj båt1.
 4. En lista presenteras med lediga båtplatser som passar för vald båt: 2, 4, 5, 29, 44.
 5. Välj båtplats 2.
